@@ -11,7 +11,6 @@ CSS Grid Layout, Styled Components, Ant Design,  JS (ES2019), React.js (useReduc
 
 ### Ссылки
 
-- [Проект на github](https://github.com/rukivbruki/todo-pwapp.git)
 - [Web версия на Heroku](https://todo-pwapp.herokuapp.com/)
 
 ### Запуск приложения
