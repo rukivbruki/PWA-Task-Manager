@@ -9,10 +9,6 @@ CSS Grid Layout, Styled Components, Ant Design,  JS (ES2019), React.js (useReduc
 - `typescript` - добавлена статическая типизация при помощи TypeScript
 - `redux` - применена библиотеки Redux c react-redux hooks API
 
-### Ссылки
-
-- [Web версия на Heroku](https://todo-pwapp.herokuapp.com/)
-
 ### Запуск приложения
 
 - `npm startLocal` - runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
