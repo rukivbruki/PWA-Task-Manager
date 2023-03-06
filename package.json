@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "express": "^4.17.1",
-    "express-favicon": "^2.0.1",
+    "express-favicon": "^2.0.4",
     "moment": "^2.29.1",
     "react": "^16.8.6",
     "react-beautiful-dnd": "^13.0.0",
