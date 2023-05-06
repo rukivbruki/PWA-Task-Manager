@@ -1,30 +1,23 @@
-### Ветка `master`
+## Main stack:
 
-**_Основной стек:_** 
+CSS Grid Layout, Styled Components, Ant Design, JS (ES2019), React.js (useReducer, useContext, useEffect, useState, useCallback, custom hooks)
 
-CSS Grid Layout, Styled Components, Ant Design,  JS (ES2019), React.js (useReducer, useContext, useEffect, useState, useCallback, custom hooks)
+Other branches:
+typescript - added static typing with TypeScript
+redux - applied Redux libraries with react-redux hooks API
+Launching the application
+npm startLocal - runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
+npm build - builds the app for production to the build folder.
+Application information
+This is a simple todo application (PWA).
 
-### Другие ветки: 
+## Main functionality:
 
-- `typescript` - добавлена статическая типизация при помощи TypeScript
-- `redux` - применена библиотеки Redux c react-redux hooks API
-
-### Запуск приложения
-
-- `npm startLocal` - runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
-- `npm build` - builds the app for production to the build folder.
-
-### Информация о приложении
-
-Это простое todo приложение (PWA). 
-
-_**Основной функционал:**_
-
-- Создание задачи;
-- Удаление задачи;
-- Отметка о выполнении задачи;
-- Перемещение задачи между разделами;
-- Установка дед-лайна и напоминание о просроченной задаче;
-- Drag and Drop внутри списка задач;
-- Сохранение состояния приложения в localStorage;
-- Доступ ко всем функциям приложения при помощи клавиатуры (accessibility).
+Task creation;
+Task deletion;
+Marking a task as complete;
+Moving tasks between sections;
+Setting deadlines and reminders for overdue tasks;
+Drag and Drop within the task list;
+Saving application state in localStorage;
+Access to all application functions using the keyboard (accessibility).
